@@ -1,4 +1,4 @@
-# vibekills (v1.0.exe0)
+# vibekills
 
 > **"The code editor with a massive ego. When you lose your cool, your codebase pays the price."**
 
