@@ -1,4 +1,4 @@
-# vibekills
+# ☣️ vibekills (v1.0.exe)
 
 > **"The code editor with a massive ego. When you lose your cool, your codebase pays the price."**
 
@@ -44,3 +44,11 @@ To ensure 100% stage reliability and immunity to crowded hackathon Wi-Fi network
 *   `index.html` (Semantic Layout Views)
 *   `style.css` (Pastel Graphics, 3D Flip Configurations, and Spring Keyframes)
 *   `app.js` (RMS Time-Domain Calculus, Web Speech Lifecycles, & Game States)
+
+---
+
+## 👥 The Overnight Dev Team
+*   **Member 1:** Frontend Core UI Canvas, Visual FX Layouts, & On-Stage Drama Coordinator.
+*   **Member 2:** System Audio Synthesis Engineering, Web API Lifecycles, & Production Deployment Master.
+
+*Developed entirely interior to Chrome / Microsoft Edge sandbox guidelines. Remember: Speak nicely to your computer, or it will pull the plug on your script loops.*
