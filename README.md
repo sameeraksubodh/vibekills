@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="git (1)" src="<img width="1536" height="1024" alt="in" src="https://github.com/user-attachments/assets/fc6159ec-3254-4888-a93b-5b51c70c5ce9" />
+<img width="1536" height="1024" alt="in" src="https://github.com/user-attachments/assets/fc6159ec-3254-4888-a93b-5b51c70c5ce9" />
 "
 
 # vibekills 
@@ -93,12 +93,15 @@ For Software:
 )
 *Add caption explaining what this shows*
 
-![Screenshot3](<img width="1600" height="759" alt="WhatsApp Image 2026-09-04 at 11 01 14 AM" src="https://github.com/user-attachments/assets/1da37683-7df7-42c7-a8b0-6756e2cf2c8d" />)
+![Screenshot3](<img width="1600" height="759" alt="WhatsApp Image 2026-09-04 at 11 01 14 AM" src="https://github.com/user-attachments/assets/7c717f24-e410-4172-b908-2de4c622e905" />
+
+)
 
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](<img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2026, 11_56_56 AM" src="https://github.com/user-attachments/assets/4e74eac9-037c-4e74-a283-97deb329a261" />
+![Workflow](<img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2026, 11_56_56 AM" src="https://github.com/user-attachments/assets/430807ca-6633-4dd2-a9e8-9a49df664bf9" />
+
 )
 
 
