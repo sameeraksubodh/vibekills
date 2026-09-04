@@ -1,6 +1,7 @@
+<img width="1280" height="640" alt="git (1)" src="<img width="1536" height="1024" alt="in" src="https://github.com/user-attachments/assets/fc6159ec-3254-4888-a93b-5b51c70c5ce9" />
+"
 
-
-# vibekills ☣️
+# vibekills 
 
 ## Basic Details
 
@@ -20,82 +21,98 @@ To recover the code, the developer must apologize gently and complete a memory-b
 
 ### The Problem (that doesn't exist)
 
-Developers sometimes get frustrated while debugging and start yelling at their code.
+Developers are usually expected to stay calm while debugging.
+But what if your code editor could detect when you lose your temper—and punish you for it?
 
-But what if the code editor itself became offended?
+The ridiculous problem: **What happens when a developer gets angry at their code?**
 
-What if getting angry at your code actually made your code fight back?
-
-vibekills solves this completely unnecessary problem by making the code editor emotionally unstable.
+Obviously, the real solution is not fixing the bug.
+The solution is making the developer suffer more. 💀
 
 ### The Solution (that nobody asked for)
 
-vibekills monitors microphone input and calculates a real-time relative loudness score using the Web Audio API.
+Introducing **vibekills** — a toxic code editor with a massive ego.
 
-When the user's voice crosses the rage threshold:
+vibekills monitors your microphone and detects when you get too loud. If your rage crosses the limit, it:
 
-🎤 Microphone detects loud voice  
-↓  
-🚨 Rage detected  
-↓  
-☠️ Blackout Mode activated  
-↓  
-🔒 Four code lines are kidnapped and scrambled  
-↓  
-🗣️ Developer must say "sorry"  
-↓  
-🤫 Sincerity Gate checks the apology  
-↓  
-🎮 Code Ransom Matrix begins  
-↓  
-♻️ Successful matches restore kidnapped code
+- 🔊 Detects your angry voice
+- 🚨 Triggers a dramatic Rage Detected blackout
+- 🔒 Kidnaps and scrambles 4 lines of your code
+- 🎤 Forces you to apologize softly
+- 🧠 Makes you complete a memory game
+- 💻 Restores your kidnapped code only if you win
 
-The louder you get, the more your code suffers.
-
----
+Because apparently, **debugging wasn't stressful enough.**
 
 ## Technical Details
 
 ### Technologies/Components Used
 
 For Software:
+- **Languages used:** HTML, CSS, JavaScript
+- **Frameworks:** None — built from scratch
+- **Libraries:** Web Audio API, Web Speech API
+- **Tools:** VS Code, Git, GitHub
+- **Browser APIs:** MediaDevices API, AudioContext, AnalyserNode, Speech Recognition API, Speech Synthesis API
 
-- HTML5
-- CSS3
-- JavaScript
-- Web Audio API
-- Web Speech API
-- Speech Synthesis API
-- DOM API
-- Vanilla JavaScript
-- VS Code-inspired UI
-- Real-time audio analysis
-
-For Hardware:
-
-- No dedicated hardware required
-- Microphone required for voice monitoring
-- Laptop/Desktop recommended for the best experience
 
 ### Implementation
-
 For Software:
 
-The project is implemented using three main frontend files:
+# Installation
 
-```text
-vibekills/
-│
-├── index.html
-├── style.css
-├── app.js
-├── assets/
-│   ├── vibekills-cover.png
-│   └── vibekills-workflow.png
-│
-├── screenshots/
-│   ├── editor.png
-│   ├── blackout.png
-│   └── matrix.png
-│
-└── README.md
+No installation or external dependencies are required.
+
+1. Clone or download the repository.
+2. Open the project folder.
+3. Make sure `index.html`, `style.css`, and `app.js` are in the same folder.
+4. Open `index.html` in a modern web browser.
+5. Allow microphone access when prompted.
+
+# Run
+
+Simply open:
+
+`index.html`
+
+in a modern browser such as Google Chrome or Microsoft Edge.
+
+Allow microphone permission and click **🎤 Start Mic Monitor** to activate vibekills.
+
+### Project Documentation
+For Software:
+
+# Screenshots
+
+![Main vibekills Editor](<img width="1600" height="759" alt="1" src="https://github.com/user-attachments/assets/2803e5d8-c655-4ea9-9c16-5a2efb453223" />
+)
+*The main vibekills code editor interface, where the developer writes and edits code while the microphone monitor tracks their voice level.*
+
+![Rage Detected - Blackout Mode](<img width="1337" height="847" alt="2" src="https://github.com/user-attachments/assets/bcdc8571-083c-404e-81d2-ea27ac89f378" />
+)
+*Rage detected! When the developer gets too loud, vibekills activates Blackout Mode, disables the editor, and demands a gentle apology.*
+
+![Code Ransom Matrix](<img width="1600" height="760" alt="3" src="https://github.com/user-attachments/assets/c636dd35-4f37-41c3-88a5-101980fd3b47" />
+)
+*The Code Ransom Matrix memory challenge. The developer gets exactly four attempts to recover the kidnapped lines of code.*
+
+# Diagrams
+
+![Vibekills Workflow](<img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2026, 11_56_56 AM" src="https://github.com/user-attachments/assets/c3da6e65-e9a1-4300-b6ef-8825c59be0dc" />
+)
+*Workflow of vibekills: microphone input → volume detection → rage detection → code scrambling → apology verification → memory challenge → code restoration.*
+
+## Team Contributions
+
+- **GOWRI NANDA A G**: Designed and developed the frontend UI, VS Code-style editor, blackout interface, animations, visual effects, and overall user experience.
+
+- **SAMEERA K SUBODH**: Implemented microphone monitoring, audio analysis, rage detection, speech recognition, apology verification, text-to-speech, Code Ransom Matrix, code scrambling/restoration, testing, and deployment.
+
+---
+
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+
+![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
+
