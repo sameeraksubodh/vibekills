@@ -83,16 +83,18 @@ Allow microphone permission and click **🎤 Start Mic Monitor** to activate vib
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](<img width="1600" height="760" alt="3" src="https://github.com/user-attachments/assets/1e7f927e-1785-47e6-8dc1-c626e4ee3e41" />
+![Screenshot1](<img width="1600" height="760" alt="WhatsApp Image 2026-09-04 at 10 58 08 AM" src="https://github.com/user-attachments/assets/34ac34d7-93fb-4219-843d-55800731b86d" />
+"
 )
 *Add caption explaining what this shows*
 
-![Screenshot2](<img width="1337" height="847" alt="2" src="https://github.com/user-attachments/assets/266d1bbc-ed00-4dcb-9c95-3bebede2e344" />
+![Screenshot2](<img width="1337" height="847" alt="WhatsApp Image 2026-09-04 at 10 41 42 AM" src="https://github.com/user-attachments/assets/59fc23b4-73c9-419a-ac1c-b861da4f3d75" />
+
 )
 *Add caption explaining what this shows*
 
-![Screenshot3](<img width="1600" height="759" alt="1" src="https://github.com/user-attachments/assets/a0627281-b56f-4397-b2ed-ea005e67b723" />
-)
+![Screenshot3](<img width="1600" height="759" alt="WhatsApp Image 2026-09-04 at 11 01 14 AM" src="https://github.com/user-attachments/assets/1da37683-7df7-42c7-a8b0-6756e2cf2c8d" />)
+
 *Add caption explaining what this shows*
 
 # Diagrams
