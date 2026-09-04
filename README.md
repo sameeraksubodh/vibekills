@@ -1,16 +1,16 @@
-<img width="1280" height="640" alt="vibekills" src="./assets/vibekills-cover.png" />
+
 
 # vibekills ☣️
 
 ## Basic Details
 
-### Team Name: [Your Team Name]
+### Team Name: [GLITCH PERFECT]
 
 ### Team Members
 
-- Team Lead: [Your Name] - [Your College]
-- Member 2: [Member Name] - [College]
-- Member 3: [Member Name] - [College]
+
+- Member 1: [GOWRI NANDA A G ] - [MUTHOOT INSTITUTE OF TECHNOLOGY AND SCIENCE]
+- Member 2: [SAMEERA K SUBODH] - [MUTHOOT INSTITUTE OF TECHNOLOGY AND SCIENCE]
 
 ### Project Description
 
