@@ -79,28 +79,26 @@ in a modern browser such as Google Chrome or Microsoft Edge.
 
 Allow microphone permission and click **🎤 Start Mic Monitor** to activate vibekills.
 
-### Project Documentation
+## Project Documentation
 For Software:
 
-# Screenshots
-
-![Main vibekills Editor](<img width="1600" height="759" alt="1" src="https://github.com/user-attachments/assets/2803e5d8-c655-4ea9-9c16-5a2efb453223" />
+# Screenshots (Add at least 3)
+![Screenshot1](<img width="1600" height="760" alt="3" src="https://github.com/user-attachments/assets/1e7f927e-1785-47e6-8dc1-c626e4ee3e41" />
 )
-*The main vibekills code editor interface, where the developer writes and edits code while the microphone monitor tracks their voice level.*
+*Add caption explaining what this shows*
 
-![Rage Detected - Blackout Mode](<img width="1337" height="847" alt="2" src="https://github.com/user-attachments/assets/bcdc8571-083c-404e-81d2-ea27ac89f378" />
+![Screenshot2](<img width="1337" height="847" alt="2" src="https://github.com/user-attachments/assets/266d1bbc-ed00-4dcb-9c95-3bebede2e344" />
 )
-*Rage detected! When the developer gets too loud, vibekills activates Blackout Mode, disables the editor, and demands a gentle apology.*
+*Add caption explaining what this shows*
 
-![Code Ransom Matrix](<img width="1600" height="760" alt="3" src="https://github.com/user-attachments/assets/c636dd35-4f37-41c3-88a5-101980fd3b47" />
+![Screenshot3](<img width="1600" height="759" alt="1" src="https://github.com/user-attachments/assets/a0627281-b56f-4397-b2ed-ea005e67b723" />
 )
-*The Code Ransom Matrix memory challenge. The developer gets exactly four attempts to recover the kidnapped lines of code.*
+*Add caption explaining what this shows*
 
 # Diagrams
-
-![Vibekills Workflow](<img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2026, 11_56_56 AM" src="https://github.com/user-attachments/assets/c3da6e65-e9a1-4300-b6ef-8825c59be0dc" />
+![Workflow](<img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2026, 11_56_56 AM" src="https://github.com/user-attachments/assets/4e74eac9-037c-4e74-a283-97deb329a261" />
 )
-*Workflow of vibekills: microphone input → volume detection → rage detection → code scrambling → apology verification → memory challenge → code restoration.*
+
 
 ## Team Contributions
 
