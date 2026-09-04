@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="in" src="https://github.com/user-attachments/assets/fc6159ec-3254-4888-a93b-5b51c70c5ce9" />
 "
 
-# vibekills 
+# VIBEKILLS
 
 ## Basic Details
 
@@ -86,24 +86,25 @@ For Software:
 ![Screenshot1](<img width="1600" height="760" alt="WhatsApp Image 2026-09-04 at 10 58 08 AM" src="https://github.com/user-attachments/assets/34ac34d7-93fb-4219-843d-55800731b86d" />
 "
 )
-*Add caption explaining what this shows*
+The main vibekills code editor interface, where the developer writes and edits code while the microphone monitor tracks their voice level.*
 
 ![Screenshot2](<img width="1337" height="847" alt="WhatsApp Image 2026-09-04 at 10 41 42 AM" src="https://github.com/user-attachments/assets/59fc23b4-73c9-419a-ac1c-b861da4f3d75" />
 
 )
-*Add caption explaining what this shows*
+*Rage detected! When the developer gets too loud, vibekills activates Blackout Mode, disables the editor, and demands a gentle apology.*
 
 ![Screenshot3](<img width="1600" height="759" alt="WhatsApp Image 2026-09-04 at 11 01 14 AM" src="https://github.com/user-attachments/assets/7c717f24-e410-4172-b908-2de4c622e905" />
 
 )
 
-*Add caption explaining what this shows*
+*The Code Ransom Matrix memory challenge. The developer gets exactly four attempts to recover the kidnapped lines of code.*
+
 
 # Diagrams
 ![Workflow](<img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2026, 11_56_56 AM" src="https://github.com/user-attachments/assets/430807ca-6633-4dd2-a9e8-9a49df664bf9" />
 
 )
-
+*Workflow of vibekills: microphone input → volume detection → rage detection → code scrambling → apology verification → memory challenge → code restoration.*
 
 ## Team Contributions
 
